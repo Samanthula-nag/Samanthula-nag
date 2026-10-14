@@ -3,7 +3,7 @@
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,git,github,figma,blender,vscode,wordpress,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma,blender,vscode,wordpress,firebase,maya,adobe" />
 </p>
 
 ### 🚀 Currently Working On
